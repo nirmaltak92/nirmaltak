@@ -1,4 +1,4 @@
-# AboutMe
+# Nirmal Tak
 
 ![My Hub](https://github.com/nirmaltak92/nirmaltak)
 
