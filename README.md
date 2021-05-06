@@ -5,7 +5,7 @@
 I am a computer science engineer and have experience in working on enterprise standard app implementation and fun apps based on React.js 👨‍💻. Interested in making life easier by working on what i like the most, You guessed it right! Coding
 
 🔭 I’m currently working on ReactJS, Nodejs and flutter.
-🍔 Currently developing Popular Website Clone.
+🍔 Currently developing a popular website's clone.
 ⚡ Available for Amazing coorporate opportunities/Freelance projects.
 
 [![GitHub followers](https://img.shields.io/github/followers/nirmaltak?style=social)](https://www.github.com/nirmaltak92)
