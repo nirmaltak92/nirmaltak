@@ -1,6 +1,6 @@
 # Nirmal Tak
 
-![My Hub](https://github.com/nirmaltak92/nirmaltak)
+[My Hub](https://github.com/nirmaltak92/nirmaltak)
 
 I am a computer science engineer and have experience in working on enterprise standard app implementation and fun apps based on React.js 👨‍💻. Interested in making life easier by working on what i like the most, You guessed it right! Coding
 
